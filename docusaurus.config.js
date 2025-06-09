@@ -13,8 +13,8 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  url : "https://github.com/Juniors017/"
-  baseUrl: "/"
+  url : "https://github.com/Juniors017/",
+  baseUrl: "/",
   organizationName: 'Juniors017', // Usually your GitHub org/user name.
   projectName: 'my-website', // Usually your repo name.
 
