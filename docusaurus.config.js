@@ -17,7 +17,7 @@ const config = {
   organizationName: 'Juniors017', // Usually your GitHub org/user name.
   projectName: 'my-website', // Usually your repo name.
   url: 'https://Juniors017.github.io',
-  baseUrl: '/my-website/',
+  baseUrl: '/',
 
 
 
