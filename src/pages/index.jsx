@@ -27,7 +27,7 @@ function HomepageHeader() {
     </div> 
     <div className="col col--6 text--center  ">
       <div className=" padding-vert--xl"><h1 className="hero__title ">Base demo site Component by @Docux</h1>
-            <p className="hero__subtitle">Cet espace est dédié à mon exploration de docusaurus </p>
+            <p className="hero__subtitle">Bienvenue, cet espace est dédié à mon exploration de docusaurus </p>
             <p className="">Ici vous retrouvez toutes les infos sur developpement et recherche ainsi que mes notes </p></div>
             
     </div>
